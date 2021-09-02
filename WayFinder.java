@@ -1,5 +1,3 @@
-package project5;
-
 import java.util.*;
 /**
  * This program finds all solutions using recursive algorithm to the following number puzzle:
@@ -10,7 +8,6 @@ import java.util.*;
  * direction (if the move should be made to the right or to the left). 
  * The starting index is always 0. 
  * @author Yi Yang
- * @version Nov. 17, 2019
  *
  */
 public class WayFinder {
